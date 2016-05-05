@@ -1,30 +1,10 @@
-Agency Jekyll theme
-====================
+# www.sweetfromsu.com
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Home of the Sweet From Su website, where you can find amazing cakes for you to taste. You can see it here [www.sweetfromsu.com](http://www.sweetfromsu.com)
 
-# How to use
+Built with [Jekyll](http://jekyllrb.com/) and powered by [Github pages](http://pages.github.com/) based on [Agency](https://github.com/y7kim/agency-jekyll-theme) theme.
 
-###Portfolio 
+# License
 
-Portfolio projects are in '/_posts'
+Feel free to use the design of the website, everything is licensed under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0). **However all the content is copyrighted.**
 
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
