@@ -1,64 +1,48 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://www.sweetfromsu.com
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Sweets From Su
+email: iwantasweetfromsu@gmail.com
+description: "The best and sweetest homemade cakes that you will find!"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Susana Madruga
   pic: 1
-  position: Lead Designer
+  position: Our Sweet Cook
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
 
-- name: Larry Parker
+- name: Filipe Afonso
   pic: 2
-  position: Lead Marketer
+  position: IT Guy
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/FilipeAfonso
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://ie.linkedin.com/in/filipeafonso
+    - title: globe
+      url: http://www.fafonso.com/
+    - title: github
+      url: https://github.com/fafonso
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: google-plus
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
 
 # Build settings
 markdown: kramdown
