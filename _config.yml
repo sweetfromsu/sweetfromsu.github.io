@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Sweets From Su
 email: iwantasweetfromsu@gmail.com
-description: "The best and sweetest homemade cakes that you will find!"
+description: "The best and sweetest homemade cakes that you will find in Dublin!"
 
 
 # Team names, titles and social links
@@ -12,11 +12,6 @@ people:
 - name: Susana Madruga
   pic: 1
   position: Our Sweet Cook
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
 
 - name: Filipe Afonso
   pic: 2
@@ -34,10 +29,10 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: https://twitter.com/sweetfromsu
   - title: facebook
-    url:
-  - title: google-plus
+    url: https://www.facebook.com/DocesDaSu
+  - title: google
     url: 
 
 # Postal address (add as many lines as necessary)
